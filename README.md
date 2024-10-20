@@ -1,10 +1,9 @@
 # 19CS408--ATM
 
-'''
+```
 NAME: KURAPATI VISHNU VARDHAN REDDY
 REG NO: 212223040103
-
-'''
+```
 ## USE CASE DIAGRAM
 ![image](https://github.com/user-attachments/assets/66fb93f9-0ee2-43ae-b206-e43f034cbd65)
 
